@@ -265,6 +265,10 @@ img {
   }
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #FFF  
+}
+
 /* --- Footer --- */
 
 footer {
